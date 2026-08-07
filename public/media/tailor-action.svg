@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#221f1d"/>
+  <rect x="0" y="0" width="900" height="150" fill="#302b25"/>
+  <g opacity=".65">
+    <rect x="42" y="65" width="52" height="340" fill="#111"/>
+    <rect x="124" y="45" width="52" height="360" fill="#1b1b1b"/>
+    <rect x="206" y="70" width="52" height="335" fill="#111"/>
+    <rect x="288" y="35" width="52" height="370" fill="#1a1a1a"/>
+    <rect x="690" y="60" width="52" height="345" fill="#111"/>
+    <rect x="772" y="42" width="52" height="363" fill="#191919"/>
+  </g>
+  <circle cx="408" cy="150" r="52" fill="#c6ad96"/>
+  <path d="M330 218h160l68 342H270z" fill="#bdb6aa"/>
+  <path d="M510 190c88 26 150 106 185 240" stroke="#4a3f38" stroke-width="74" stroke-linecap="round"/>
+  <path d="M350 300c75 45 173 47 286 10" stroke="#ded4c4" stroke-width="20" stroke-linecap="round"/>
+  <path d="M268 272c-72 48-112 122-140 232" stroke="#3a332e" stroke-width="68" stroke-linecap="round"/>
+  <path d="M430 214l-28 96 72-83z" fill="#f1ede6"/>
+  <path d="M256 470h438" stroke="#b8965a" stroke-width="8" opacity=".65"/>
+</svg>

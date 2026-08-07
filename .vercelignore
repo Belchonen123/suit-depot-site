@@ -1,0 +1,11 @@
+.next
+node_modules
+/*.png
+*.log
+live-chat-*.json
+workday-video-export
+thinkific-course-export
+tools
+.agents
+.claude
+.codex

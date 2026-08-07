@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title description">
+  <title id="title">Best of Hour Detroit multi-year winner</title>
+  <desc id="description">Hour Detroit's Best of Detroit multi-year winner wordmark.</desc>
+  <rect width="640" height="440" fill="#231f20"/>
+  <rect x="8" y="8" width="624" height="374" fill="#fff"/>
+  <rect x="8" y="8" width="624" height="374" fill="none" stroke="#231f20" stroke-width="8"/>
+  <text
+    x="320"
+    y="116"
+    fill="#231f20"
+    font-family="Rockwell, 'Roboto Slab', Georgia, serif"
+    font-size="92"
+    font-weight="900"
+    letter-spacing="3"
+    text-anchor="middle"
+  >BEST OF</text>
+  <path d="M46 143H594" stroke="#231f20" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 15"/>
+  <text
+    x="320"
+    y="295"
+    fill="#ed1c24"
+    font-family="Bodoni 72, Didot, 'Times New Roman', serif"
+    font-size="174"
+    font-weight="400"
+    letter-spacing="-9"
+    text-anchor="middle"
+  >HOUR</text>
+  <text
+    x="320"
+    y="350"
+    fill="#231f20"
+    font-family="Inter, Arial, sans-serif"
+    font-size="36"
+    font-weight="800"
+    letter-spacing="22"
+    text-anchor="middle"
+  >DETROIT</text>
+  <text
+    x="320"
+    y="424"
+    fill="#fff"
+    font-family="Rockwell, 'Roboto Slab', Georgia, serif"
+    font-size="40"
+    font-weight="900"
+    letter-spacing="3"
+    text-anchor="middle"
+  >MULTI-YEAR WINNER</text>
+</svg>
